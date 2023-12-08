@@ -1,0 +1,4 @@
+results/**
+yolo*.pt
+*.avi
+out.mp4
