@@ -5,10 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: main",
+            "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "program": "main.py",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Train",
+            "type": "python",
+            "request": "launch",
+            "program": "train.py",
             "console": "integratedTerminal",
             "justMyCode": true
         }

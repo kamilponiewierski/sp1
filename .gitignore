@@ -2,3 +2,6 @@ results/**
 yolo*.pt
 *.avi
 out.mp4
+data_generation/frames/**
+runs/
+data/

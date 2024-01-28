@@ -1,0 +1,7 @@
+path: /home/kamil/studio_projektowe/data
+train: images/train
+val: images/val
+
+names:
+  0: rocket_car
+  1: rocket_ball
